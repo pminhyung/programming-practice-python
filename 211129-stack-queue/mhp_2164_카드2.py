@@ -7,13 +7,13 @@ from collections import deque
 inp = sys.stdin.readline
 n = int(inp().rstrip())
 q = deque([i for i in range(1, n+1)])
-
+res = []
 cnt = 0
 while len(q)>1:
 	if not cnt%2:
-		q.popleft()
+		res.append(q.popleft())
 	else:
 		q.append(q.popleft())
 	cnt+=1
-	
-print(q.popleft())
+res.append(q.popleft())
+print(' '.join(map(str, res)))
