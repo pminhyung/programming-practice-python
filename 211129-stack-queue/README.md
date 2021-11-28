@@ -7,8 +7,14 @@
 |stack         |    BOJ - `제로 (10773)`     |    silver4    |
 |stack         |    BOJ - `스택 수열 (1874)` |    silver3    |
 |stack         |    BOJ - `쇠막대기 (10799)` |    silver3    |
+|stack         |    BOJ - `균형잡힌세상 (4949)` |    silver4    |
+  
+|          유형       |Platform - Qname (#)         |Tier(Level)(레벨)      |
+|---------------------|-----------------------------|------------|
 |queue         |    BOJ - `큐 (10845)`    |    silver4    |
 |queue         |    BOJ - `요세푸스 문제 (1158)`    |    silver5    |
 |queue         |    BOJ - `프린터큐 (1966)`    |    silver3    |
 |queue         |    BOJ - `카드2 (2164)`    |    silver4    |
 |queue         |    BOJ - `요세푸스문제 0 (11866)`    |    silver4    |
+|queue         |    BOJ - `큐2 (18258)`    |    silver4    |
+|queue         |    BOJ - `카드1 (2161)`    |    bronze2    |
