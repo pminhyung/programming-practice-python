@@ -16,7 +16,6 @@ from collections import deque
 
 q = deque([(0,0)])
 visited = []
-cnt = 0
 
 # while (m-1, n-1) not in visited:
 while q:
